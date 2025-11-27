@@ -16,3 +16,23 @@ The goal of this project is to showcase practical financial modelling ability co
 ---
 
 ## 📂 Project Structure
+financial_model.xlsx
+scenario_analysis.xlsx
+charts/
+
+
+---
+
+## 🧠 Key Skills Demonstrated
+- 3-statement modelling  
+- FP&A budgeting and forecasting  
+- Scenario + sensitivity analysis  
+- Data visualization  
+- Business performance analysis  
+
+---
+
+## 🛠 Tools Used
+- Microsoft Excel  
+- PowerPoint
+- Google Sheets 
