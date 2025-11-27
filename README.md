@@ -17,7 +17,9 @@ The goal of this project is to showcase practical financial modelling ability co
 
 ## 📂 Project Structure
 financial_model.xlsx
+
 scenario_analysis.xlsx
+
 charts/
 
 
