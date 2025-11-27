@@ -20,8 +20,6 @@ financial_model.xlsx
 
 scenario_analysis.xlsx
 
-charts/
-
 
 ---
 
